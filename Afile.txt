@@ -1,0 +1,7 @@
+This file created from Main repositor.
+
+The Bash command ls is used to 'list' contents of the current working directory.
+ ls is equivalent to DIR on a Windows console host terminal. 
+ Both Bash and Windows console host have a cd command. 
+ cd is an acronym for 'Change Directory'. 
+cd is invoked with an appended directory name.
